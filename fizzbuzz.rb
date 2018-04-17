@@ -8,3 +8,7 @@ elsif (int % 3 == 0) && (int % 5 == 0)
 else return "nil"
 end
 end
+
+fizzbuzz(3)
+fizzbuzz(5)
+fizzbuzz ()
