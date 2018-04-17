@@ -8,4 +8,3 @@ elsif int % 3 && int % 5 == 0
 else "nil"
 end
 end
-
