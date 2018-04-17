@@ -8,6 +8,4 @@ elsif int % 3 && int % 5 == 0
 else "nil"
 end
 end
-fizzbuzz(3)
-fizzbuzz(5)
-fizzbuzz()
+
